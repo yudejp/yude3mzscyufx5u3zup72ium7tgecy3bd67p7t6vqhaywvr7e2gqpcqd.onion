@@ -2,3 +2,7 @@
 	path = html
 	url = https://github.com/yudejp/yude.jp
 	branch = html
+[submodule "yude.jp"]
+	path = yude.jp
+	url = https://github.com/yudejp/yude.jp
+	branch = html
