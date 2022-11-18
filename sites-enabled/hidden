@@ -1,0 +1,11 @@
+server {
+    listen 80;
+    server_name yudejpwxp2cziclocqjfd55ucw2dh6ncswopluh7exwusjlfkvkwhwqd.onion yude.i2p idabfrazqbh7upvo2f5hx3ajpqglrwny66qbvcoatfqoq64ifiaq.b32.i2p;
+    location / {
+      root /var/www/hidden/html;
+      index index.html;
+      sub_filter 'によってビルドされ、Cloudflare' 'によってビルドされ、Oracle';
+      sub_filter 'Pages 上でホストされています。<br>' 'Cloud 上でホストされています。<br>';
+      sub_filter_once on;
+    }
+}
