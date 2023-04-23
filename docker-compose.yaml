@@ -12,8 +12,10 @@ services:
   agate:
     image: ghcr.io/yude/agate-docker:main
     restart: always
+    environment:
+      - AGATE_HOST=g.yude.jp
     volumes:
       - ./docs:/app/content
-      - ./keys:/app/keys
+      - ./certs:/app/certs
     ports:
       - 1965:1965
