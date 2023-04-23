@@ -1,0 +1,19 @@
+version: '3.9'
+services:
+  nginx:
+    image: nginx:latest
+    restart: always
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - ./docs:/var/www/html
+    ports:
+      - 8080:80
+
+  agate:
+    image: thejf/agate
+    restart: always
+    volumes:
+      - ./docs:/var/agate/content
+      - ./keys:/var/agate/keys
+    ports:
+      - 1965:1965
