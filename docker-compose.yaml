@@ -10,10 +10,10 @@ services:
       - 8080:80
 
   agate:
-    image: thejf/agate
+    image: ghcr.io/yude/agate-docker:main
     restart: always
     volumes:
-      - ./docs:/var/agate/content
-      - ./keys:/var/agate/keys
+      - ./docs:/app/content
+      - ./keys:/app/keys
     ports:
       - 1965:1965
