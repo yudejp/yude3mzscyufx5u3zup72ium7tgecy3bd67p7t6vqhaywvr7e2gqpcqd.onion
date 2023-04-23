@@ -1,2 +1,0 @@
-# Updates submodule at 1:00 everyday
-0 1 * * * cd /var/www/hidden; git submodule update --init --recursive

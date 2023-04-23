@@ -1,0 +1,68 @@
+# yude.jp
+Welcome to yude.jp!
+## About me
+* Handle: yude
+* Location: Hiroshima, Japan
+* Affiliation: Faculty of Information Science, Hiroshima City University
+## Contact
+* Telephone: +81 70-8909-1949
+* Discord: yude#3205
+* E-mail: i@yude.jp
+## Links
+=> https://www.yude.jp/ yude.jp on Clearnet
+=> https://twitter.com/yude_jp Twitter (@yude_jp)
+=> https://mstdn.soine.site/@yude Fediverse (@yude@soine.site)
+## PGP Public key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGBFtIIBEADvtdeDZreuQ/iktUbhSqAOwbmAVNqbuKYvIbxp1AKPlEVD3oxR
+s+pnfLwMswobAT98VjQMHYnQM8hp4ngBgiZUqfh5RWO750TvlNIRRlG4vMoR06gP
+maDVz6t0D+UPW0lnuPk7TnHOROPEQCJzjn+J8xd+a1wXHP9ExAOpGLjnjUDPZK2v
+U7ls3j4/7YWa1/lpbccWbbnZ/siqbz1VE3F+RwXWtxzTIOyreriAAKY5se8Z/fE1
+FYQlsDlAfFZa5K8+4LiTLongzBJpjwRsWiTYNQxpEUv47jWJuO2DgD5/8+bG4P/F
+n4OC6GP4odwWZZnga/rIrbYM0rl6pCHzKxg9nrwba0ZsbO6H0++Inii3TIHT9Nm1
+vBCHUMvoW3DEWD6SB/fut8nNCamQKJwAHp8wl/OCJ8vUbwM0tTiaC7ymRdQXehSG
+5kWf4tSNAz9QJGQPyn3qFehuD59/B7yMdlIAExKH/fHtUknpb/KNJx8aIRfxC58X
+e9syXLvNO1XBpI3dl7QWGVLSErVNtWTO3RSywjhDL73rZVxY4fJvz63eo0T/bIHp
+YdL7ThdTr+PbwcRvmJrJmYqzSzg6kDT+jIyV3vNvUCb/m3nSm41Z4cSGMCU/9/Nm
+7eUJRnWdFOeEfOrn3TRrbNXDMerXRe/+ITO4K5Xc1AD9I8ILXM/K4QV9iQARAQAB
+tBJ5dWRlanAgPGlAeXVkZS5qcD6JAlQEEwEIAD4WIQQ3RfJw206JdWsHYr7rD+XZ
+JcSpaAUCYEW0ggIbAwUJBaOagAULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRDr
+D+XZJcSpaD8zEAC48umofGvW0SyUAZ3j8xIP19Ljr3GVQTEF/lDM7DmkKDyfze3A
+gZR5helnCwrljStbr68wDbXf5eKOzUqMq+FBtQ/uqEocu1pJT8OeYlHiT7XBiqgz
+/gIA+g4ao6pvRq6HakqOuSHjJ02a8uiH6VGMci4lWWXEov9B9xOs4EueF2TkbTMG
+VKBkZRn6oZPdYKn+4pNhqjC61+Rm9mDOJEUdjWjpY7JF3XrE4ZI3+3scK3LmgTaJ
+3JmNmUIsAzhACTJIwk5EbuNIXMw3mAA5T7W42XQVYpARnJCt5wFCcO3GsnxVM0lU
+ViLxwiqRVikCFKgQ02E0xKrW+qnfwJWZ2LfZuoTdoOclJR7g3Gv0JAWk+Nzg6ssS
+cdV0Fc3OP6gADnJdmcqim0LEn0ZNnXTcJsI4PiAgOqnlOXYTh5VwY/AX57YX4voK
+ZRcz4SjV8c1aCDwErc8j8iTrP4s1YqnURxGQ+hD496ZwfObODoUFcb33NtzL1irR
+OVWPvuigooKQlopCurBXGuvO7gwzqj+m6ZqipjPs+xQA3Ic8/Nuf/VISYvi1Qbdl
+HZx0DxfrgISiAGpkQmLuvS8t/6+nDC5EI4ALLNEzvQLUWKbxxv1qyGWue77/zdZF
+OvnbQQcv5TxWRPme9WZA1PzkA3f0Xgk0UhoGLG0oYjB1eGpxTyTgIEQ24bkCDQRg
+RbSCARAA3SE+aBTtdXR1GonX8xvVamedeyyFWvdIZmipSfhdUxFYSEtzfHOne0sw
++oLK0sx10AWsFoEi244D7IT3Dliqm31nVrGuoDpOrMdsIFQ+FpzKc+ZLlVyexkM4
+X8/ruzXLT8tFfqJ0X3gSURiBzUoDOPXAPlDVtbbIhBTOOGCQMWFk5jieptJ+Do0N
+sZCjdyiq4yxhwt2cQHA+r3lZKezraGvidqiExFqVsVkO34HJ1a+/xehPZGShCdY3
+fn7ffatSW7ocQIG0j5EFW1XApYbKZjwYVxJq7bSP7gmx5KVrqIDZd5eL2s3gqPTe
+fQ3HYvg04A9bRd/OWkUEHOFy2GAnxqGykh/3P5+9BsFD2/3GrXn+ePmyotIE3pJk
+/VD3KRczrf8fPFIVMNRXILc4W9L4WxVTTygb9DN+MengxavXNWEBosFnENm3ufDm
+ix5z786CICZO30dTlSJR9t9rmdAQcxqk4P+vQcm7lEUDcQcyaav0Szrc4pw2sJ+t
+nPLdv/ia/SEnewO6Wy+C7UZKKcjSi5tTU4n6X6EQ8S9tXcHbEyb+btqclQRrfUYe
+67lmJklJllIfFribjdfWZF9GcjyHgs2leAaGbrCH7M7zHHg/O0082r3MD4JhGUxM
+wjXnGvvxSLp4rMsTn9yWK49o/QLIcQRA1LHGyCTnuZ073GV2hKEAEQEAAYkCPAQY
+AQgAJhYhBDdF8nDbTol1awdivusP5dklxKloBQJgRbSCAhsMBQkFo5qAAAoJEOsP
+5dklxKloaE4P/R7yrUMIpBS538HB9PoQtHjzyiN0i70lqDRoYq6Xep6acueTeNJK
+jPms0ocB6ZgPo9Q14BFT1SeSzLzwQkwHcYyVud+tbBMR8x8TV5lKqe0Kj/GgvWav
+TXcJkoxiUtMrwnSgLljcQ2LbhHkFkimwCeeovcvqI+25NFWQcxikWAeBafFE2ql2
+pu1ce7/VnmVcuF5rujo0X8KGuXvfNPIjqqWtF+0RFWbJMH9PFtQVMABcahQ78CD+
+sa366gsiMTe6x96hzgpHi6oQq5U39osw1KsJgc9NlGW0orrDVel0BIgYVuWcXN5P
+TEceAjvG2ZOHJA+ceHK6n0YdiqOP0nUD0Fy9mHXeCHl5+fMRZ+9IhOkPdcAtJFtr
+k2Ejd7H0Sd5SUqOUZiPGuClIG2aT+mbqtij79hdljrYmGMy36O4G+GBBlD1ymDTT
+cAw2cpjzT9+2GkD6FHjEs+EAh3uCtZoB/nN3Kp4o8Gn64Bom5/0iLhWtHquXQz6c
+c0tlHaaA33TbPae8qIaky4zAu16Vbzo4AfcJmKbH6TFsg7fKPT6Yfw+8AqpMjWfm
+9PzbXbhsunpq/A5ycDbjqkXpLaT9Wd9PyaFDBtTHCQqm/GjK9AO6qjkVw7Y7X0jq
+jwRqQTwiu6jqEkAK3hZdvNHeA8Gam0vfZ4mWj31lXWC9jhLLr0QC3DaS
+=pibX
+-----END PGP PUBLIC KEY BLOCK-----
+```
