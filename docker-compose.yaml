@@ -7,7 +7,7 @@ services:
       - ./nginx:/etc/nginx/conf.d
       - ./docs:/var/www/html
     ports:
-      - 8080:80
+      - 80:8080
 
   agate:
     image: ghcr.io/yude/agate-docker:main
