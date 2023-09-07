@@ -3,17 +3,20 @@ services:
   nginx:
     image: nginx:latest
     restart: always
+    user: root
     volumes:
       - ./nginx:/etc/nginx/conf.d
       - ./docs:/var/www/html
+      - /etc/letsencrypt:/etc/letsencrypt
     ports:
-      - 80:8080
+      - 80:80
+      - 443:443
 
   agate:
     image: ghcr.io/yude/agate-docker:main
     restart: always
     environment:
-      - AGATE_HOST=g.yude.jp
+      - AGATE_HOST=yude.jp
     volumes:
       - ./docs:/app/content
       - ./certs:/app/certs
